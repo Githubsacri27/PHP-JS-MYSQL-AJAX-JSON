@@ -1,6 +1,6 @@
 # PHP-MYSQLI-AJAX-JSON
 
-Este proyecto es una aplicación web de una librería desarrollada utilizando las tecnologías HTML,CSS,PHP,JavaScript, MySQL AJAX y JSON.
+Este proyecto es una aplicación web de una librería desarrollada utilizando las tecnologías HTML, CSS, PHP, JS, MySQL AJAX y JSON.
 ![imagen](https://github.com/Githubsacri27/PHP-MYSQLI-AJAX-JSON/assets/99100069/b8da6935-0a82-4cdc-8150-6821a948972c)
 
 
